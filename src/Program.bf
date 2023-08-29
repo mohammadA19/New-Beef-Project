@@ -1,6 +1,6 @@
 
 using System;
-namespece #ProjectName;
+namespace #ProjectName;
 
 public static class Program
 {
